@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.user-info {
+  height: 100px;
+}
+.user-cointainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
